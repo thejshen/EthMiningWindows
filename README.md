@@ -2,10 +2,10 @@
 How to setup Ethereum mining on Windows and AMD graphics on the ethermine.org mining pool
 
 # Download
-Latest AMD Video Drivers
-https://github.com/Genoil/cpp-ethereum/blob/master/releases/ethminer-0.9.41-genoil-1.1.7.zip
-https://github.com/ethereum/mist/releases/download/v0.8.10/Ethereum-Wallet-installer-0-8-10.exe
-And the file in this repository
+- Latest AMD Video Drivers
+- https://github.com/Genoil/cpp-ethereum/blob/master/releases/ethminer-0.9.41-genoil-1.1.7.zip
+- https://github.com/ethereum/mist/releases/download/v0.8.10/Ethereum-Wallet-installer-0-8-10.exe
+- "run.bat" from this repository
 
 # Setup
 Install Ethereum-Wallet-installer-0-8-10.exe
